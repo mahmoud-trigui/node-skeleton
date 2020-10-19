@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`example stringToSortedArray 1`] = `
+Array [
+  "A",
+  "list",
+  "meaning",
+  "of",
+  "without",
+  "words",
+]
+`;
